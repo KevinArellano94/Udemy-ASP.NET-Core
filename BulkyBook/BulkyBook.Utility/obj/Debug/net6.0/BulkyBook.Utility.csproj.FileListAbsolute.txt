@@ -1,0 +1,14 @@
+C:\Users\kevin\Documents\udemy\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.deps.json
+C:\Users\kevin\Documents\udemy\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.runtimeconfig.json
+C:\Users\kevin\Documents\udemy\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.dll
+C:\Users\kevin\Documents\udemy\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.pdb
+C:\Users\kevin\Documents\udemy\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\udemy\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Documents\udemy\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+C:\Users\kevin\Documents\udemy\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfo.cs
+C:\Users\kevin\Documents\udemy\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\udemy\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.dll
+C:\Users\kevin\Documents\udemy\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\refint\BulkyBook.Utility.dll
+C:\Users\kevin\Documents\udemy\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.pdb
+C:\Users\kevin\Documents\udemy\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.genruntimeconfig.cache
+C:\Users\kevin\Documents\udemy\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\ref\BulkyBook.Utility.dll
